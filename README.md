@@ -32,3 +32,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Amplify Deploy 調査
+以下の回収を入れた後デプロイに成功するか検証する
+
+1. model追加
+2. model データ追加
+3. Component をFigmaから連携
+
+
+### Amplify ホスティングを最大限に活用する方法を調べましょう を試す
